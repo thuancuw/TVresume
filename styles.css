@@ -1,0 +1,18 @@
+body {
+    font-family:sans-serif;
+}
+.title{
+  font-size: 3rem;
+}
+.container-fluid {
+  padding-top:1rem;
+  padding-left:2rem;
+  padding-right:2rem;
+  padding-bottom:0.5rem;
+}
+p, h4 {
+  padding-left: 10px;
+}
+.intro {
+  line-height: 2;
+}
